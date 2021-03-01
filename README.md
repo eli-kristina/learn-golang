@@ -4,5 +4,6 @@ go version: go1.11
 
 ## case
 
-- Render HTML template
-- Connect to database MySQL
+A1. Render HTML template
+A2. Connect to database MySQL
+A3. Create API service (response in JSON)
