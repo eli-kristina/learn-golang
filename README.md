@@ -2,6 +2,7 @@
 
 go version: go1.11
 
-## Study
+## case
 
 - Render HTML template
+- Connect to database MySQL
